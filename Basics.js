@@ -29,3 +29,5 @@ myFunc('welcome');
 myFunc('hello');
 
 //closure is the inner function in the above code. The outter function has an access to the inner function.
+
+console.log("Hello Romana")
